@@ -57,6 +57,3 @@ PRODUCT_BRAND := xiaomi
 PRODUCT_MODEL := Xiaomi Redmi Note 9
 PRODUCT_MANUFACTURER := xiaomi
 PRODUCT_RELEASE_NAME := Xiaomi Redmi Note 9
-
-# Fixing directory error
-$(call inherit-product, vendor/pb/pb.mk)
