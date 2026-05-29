@@ -125,9 +125,6 @@ on boot
 # on load_all_props_action
 #     load_all_props
 
-on load_system_props_action
-    load_system_props
-
 on load_persist_props_action
     load_persist_props
 
